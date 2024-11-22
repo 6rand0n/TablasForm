@@ -1,0 +1,16 @@
+D:\Visual Studio Proyectos\Tabla\bin\Debug\net8.0-windows\Tabla.exe
+D:\Visual Studio Proyectos\Tabla\bin\Debug\net8.0-windows\Tabla.deps.json
+D:\Visual Studio Proyectos\Tabla\bin\Debug\net8.0-windows\Tabla.runtimeconfig.json
+D:\Visual Studio Proyectos\Tabla\bin\Debug\net8.0-windows\Tabla.dll
+D:\Visual Studio Proyectos\Tabla\bin\Debug\net8.0-windows\Tabla.pdb
+D:\Visual Studio Proyectos\Tabla\obj\Debug\net8.0-windows\Tabla.Form1.resources
+D:\Visual Studio Proyectos\Tabla\obj\Debug\net8.0-windows\Tabla.csproj.GenerateResource.cache
+D:\Visual Studio Proyectos\Tabla\obj\Debug\net8.0-windows\Tabla.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Proyectos\Tabla\obj\Debug\net8.0-windows\Tabla.AssemblyInfoInputs.cache
+D:\Visual Studio Proyectos\Tabla\obj\Debug\net8.0-windows\Tabla.AssemblyInfo.cs
+D:\Visual Studio Proyectos\Tabla\obj\Debug\net8.0-windows\Tabla.csproj.CoreCompileInputs.cache
+D:\Visual Studio Proyectos\Tabla\obj\Debug\net8.0-windows\Tabla.dll
+D:\Visual Studio Proyectos\Tabla\obj\Debug\net8.0-windows\refint\Tabla.dll
+D:\Visual Studio Proyectos\Tabla\obj\Debug\net8.0-windows\Tabla.pdb
+D:\Visual Studio Proyectos\Tabla\obj\Debug\net8.0-windows\Tabla.genruntimeconfig.cache
+D:\Visual Studio Proyectos\Tabla\obj\Debug\net8.0-windows\ref\Tabla.dll
